@@ -330,3 +330,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **EcoForge** - *Exploring the complex beauty of ecological systems through interactive simulation*
 
 For questions, suggestions, or collaboration opportunities, please open an issue or contact the development team.
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
